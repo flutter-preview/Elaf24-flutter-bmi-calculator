@@ -1,4 +1,4 @@
-import 'package:bmi/constants.dart';
+import 'package:bmi_clac/constants.dart';
 import 'package:flutter/cupertino.dart';
 
 class IconContent extends StatelessWidget {

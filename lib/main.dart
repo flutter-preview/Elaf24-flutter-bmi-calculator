@@ -1,4 +1,4 @@
-import 'package:bmi/resultScreen.dart';
+import 'resultScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'reusableCard.dart';
